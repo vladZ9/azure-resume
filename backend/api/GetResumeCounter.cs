@@ -16,6 +16,7 @@ using System.Text;
 // this is a test comment
 namespace Company.Function
 {
+    //this is another test comment
     public static class GetResumeCounter
     {
         [FunctionName("GetResumeCounter")]
